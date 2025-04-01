@@ -1,2 +1,1 @@
-# AI_session
-AI 세션 레포입니다.
+# 13th_AI_EXAMPLE_CODE
